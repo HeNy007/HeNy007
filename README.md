@@ -25,7 +25,7 @@
 
 [twitter]: https://twitter.com/HeNyBn
 
-[youtube]: https://www.youtube.com/henybenhamed
+[youtube]: https://www.youtube.com/henybnhamed
 
 <br />
 
