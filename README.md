@@ -12,6 +12,8 @@
 
 - ⚡ 2021 Goals: learn more about AI
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?login=ozaazaa&cursus=42&email=hide)](https://github.com/HeNy007/HeNy007)
+
 ### Connect with me:
 
 [<img align="left" alt="heny007 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
